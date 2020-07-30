@@ -1,5 +1,8 @@
 
-
+---
+title: "Foo"
+date: 2222-12-12
+---
     On the "Code" tab, select your aufern-patch-1 branch.
 
     Click Create new file.

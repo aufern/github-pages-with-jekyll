@@ -1,4 +1,4 @@
-title: Your awesome title
+# title: Your awesome title
 author: GitHub User test
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,3 +12,8 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+---
+title: "Foo"
+date: 2222-12-12
+---
